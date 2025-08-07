@@ -50,7 +50,7 @@ Only footfall measurements from **2015** were used.
 
 ## 📉 Disclaimer
 
-> **Interpretation of visualizations and charts is intentionally limited in the notebook.**  
+> **Interpretation of visualisations and charts is intentionally limited in the notebook.**  
 > This is due to a course requirement mandating that analytical conclusions and detailed explanations be presented separately in the accompanying report.
 
 ---
